@@ -17,15 +17,15 @@ Scale问题我认为是目前计算机视觉研究的痛点，CNN具有优秀的
 不同图像区域的模式是不一样的，局部区域的密度？对应的scale？
 
 
-PCC Net: Perspective Crowd Counting via Spatial Convolutional Network
+1. PCC Net: Perspective Crowd Counting via Spatial Convolutional Network
 
-https://arxiv.org/pdf/1905.10085.pdf
+   https://arxiv.org/pdf/1905.10085.pdf
 
-从透视投影的角度去看待 Crowd Counting问题，提出使用上、下、左、右四种图像上的空间划分方法來空间尺度变化。
+   从透视投影的角度去看待 Crowd Counting问题，提出使用上、下、左、右四种图像上的空间划分方法來空间尺度变化。
 
 
-Deep Scale-spaces: Equivariance Over Scale
+2. Deep Scale-spaces: Equivariance Over Scale
 
-https://arxiv.org/pdf/1905.11697.pdf
+   https://arxiv.org/pdf/1905.11697.pdf
 
-对scale space很好的总结，没看懂
+   对scale space很好的总结，没看懂
