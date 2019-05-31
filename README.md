@@ -2,7 +2,6 @@
 论文归类
 
 
-The Scale Problem：
 
 个人认识有限，现在应用深度学习的计算机视觉的两个基础问题是： Scale and Classification
 
@@ -19,4 +18,4 @@ Scale问题我认为是目前计算机视觉研究的痛点，CNN具有优秀的
 
 1. PCC Net: Perspective Crowd Counting via Spatial Convolutional Network
 
-   https://arxiv.org/pdf/1905.10085.pdf
+   https://arxiv.org/pdf/1905.100
