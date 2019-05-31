@@ -20,12 +20,3 @@ Scale问题我认为是目前计算机视觉研究的痛点，CNN具有优秀的
 1. PCC Net: Perspective Crowd Counting via Spatial Convolutional Network
 
    https://arxiv.org/pdf/1905.10085.pdf
-
-   从透视投影的角度去看待 Crowd Counting问题，提出使用上、下、左、右四种图像上的空间划分方法來空间尺度变化。
-
-
-2. Deep Scale-spaces: Equivariance Over Scale
-
-   https://arxiv.org/pdf/1905.11697.pdf
-
-   对scale space很好的总结，没看懂
