@@ -1,0 +1,7 @@
+以最近的人脸识别的损失的分析为主，慢慢添加
+
+Hyperparameter-Free Out-of-Distribution Detection Using Softmax of Scaled Cosine Similarity
+
+https://arxiv.org/pdf/1905.11697.pdf
+
+对s进行处理，论文很简单
